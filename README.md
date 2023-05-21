@@ -1,6 +1,10 @@
 # swift-drawingapp
 
-클린 스위프트 과제2
+
+# Update
+Usecase 적용한 버전
+https://github.com/sangjinKIM93/swift-drawingapp-Usecase
+
 
 # 구조도
 
